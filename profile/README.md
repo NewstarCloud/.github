@@ -1,4 +1,4 @@
-![image](Newstar.jpg)
+![image](/profile/Newstar.jpg)
 
 # Hey there👋, Welcome to Newstar Cloud
 <br>
